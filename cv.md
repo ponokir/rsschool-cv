@@ -26,4 +26,6 @@ Not yet...
 ## Education:
 I am completed [AnnBlock`s course](https://annblok.ru/) on website creation. 
 ## Language:
-**English level:** - A2 
+**English** - A2
+**Belarussian:** - close to native speaker
+**Russian:** - native speaker
