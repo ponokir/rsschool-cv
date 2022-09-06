@@ -24,6 +24,6 @@ function multiply(a, b){
 ## Work experience
 Not yet...
 ## Education:
-I`m completed [Anna Block`s course](https://annblok.ru/) on website creation. 
+I am completed [AnnBlock`s course](https://annblok.ru/) on website creation. 
 ## Language:
 **English level:** - A2 
